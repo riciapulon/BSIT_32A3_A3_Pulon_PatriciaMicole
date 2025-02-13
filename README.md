@@ -1,1 +1,1 @@
-# BSIT_32A3_A3_Pulon_PatriciaMicole
+This To-Do List website is designed with a neutral color palette for a minimalist and aesthetic look. The HTML structures the list with an input field, an "Add" button, and a task list where items are dynamically added. The CSS enhances the design using soft beige, cream, and muted brown tones, with smooth interactions like button hover effects. 
